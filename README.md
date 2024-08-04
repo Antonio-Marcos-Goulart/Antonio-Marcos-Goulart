@@ -1,9 +1,11 @@
--👋 Hi, I’m @Antonio-Marcos-Goulart;
+# 👋 Hi, I'm Antonio Marcos Goulart
 
--🌱 Java | PHP;
+- 🌱 **Java and PHP**
+- 📘 **Currently focused on learning Java**
+- 💼 **Open to collaboration on programming projects**
 
--💞️ I'm currently learning to program Java;
+## 📫 How to reach me:
+- 📧 Email: [antoniomarcos5674335@gmail.com](mailto:antoniomarcos5674335@gmail.com)
+- 💼 LinkedIn: [Antonio Marcos Goulart](https://www.linkedin.com/in/antôniomarcosgoulart05)
 
--📫 How to reach me: e-mail - antoniomarcos5674335@gmail.com or Linkedin www.linkedin.com/in/antôniomarcosgoulart05;
-
--🗣️ Portuguese.
+🗣️ **Language:** Portuguese
