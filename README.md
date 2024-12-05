@@ -9,4 +9,4 @@
 - 📧 Email: [antoniomarcos5674335@gmail.com](mailto:antoniomarcos5674335@gmail.com)
 - 💼 LinkedIn: [Antonio Marcos Goulart](https://www.linkedin.com/in/antôniomarcosgoulart05)
 
-🗣️ **Language:** Portuguese
+🗣️ **Language:** Portuguese, English (basic)
