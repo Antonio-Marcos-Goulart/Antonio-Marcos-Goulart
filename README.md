@@ -3,7 +3,7 @@
 - 🌱 **Java - PHP - SQL**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
-- 🎓 **4th semester of Information Systems**
+- 🎓 **5th semester of Information Systems**
 
 ## 📫 How to reach me:
 - 📧 Email: [antoniomarcos5674335@gmail.com](mailto:antoniomarcos5674335@gmail.com)
