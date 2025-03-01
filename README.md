@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio Marcos Goulart
 
-- 🌱 **Java - PHP - SQL**
+- 🌱 **Java**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
 - 🎓 **5th semester of Information Systems**
