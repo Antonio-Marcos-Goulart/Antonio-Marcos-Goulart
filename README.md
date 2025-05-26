@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio Marcos Goulart
 
-- 🌱 **Java**
+- 🌱 **Java | Spring Boot**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
 - 🎓 **5th semester of Information Systems**
