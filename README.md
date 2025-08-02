@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Antonio Marcos Goulart
 
-- 🌱 **Java | Spring Boot | SQL**
+- 🌱 **JAVA | Spring Boot | Hibernate | SQL**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
-- 🎓 **5th semester of Information Systems**
+- 🎓 **6th semester of Information Systems**
 
 ## 📫 How to reach me:
 - 📧 Email: [antoniomarcos5674335@gmail.com](mailto:antoniomarcos5674335@gmail.com)
