@@ -3,7 +3,7 @@
 - 🌱 **JAVA | Spring Boot | Hibernate | SQL**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
-- 🎓 **6th semester of Information Systems**
+- 🎓 **7th semester of Information Systems**
 
 ## 📫 How to reach me:
 - 📧 Email: [antoniomarcos5674335@gmail.com](mailto:antoniomarcos5674335@gmail.com)
