@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio 
 
-- 🌱 **JAVA | Spring Boot | Hibernate | SQL**
+- 🌱 **JAVA | Node | Spring Boot | Hibernate | SQL**
 - 📘 **Currently focused on learning Java**
 - 💼 **Seeking to improve my knowledge**
 - 🎓 **7th semester of Information Systems**
