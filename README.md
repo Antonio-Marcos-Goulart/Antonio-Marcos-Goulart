@@ -1,10 +1,9 @@
 # Antônio Marcos 
 
 Desenvolvedor backend com foco em **Java**, **Spring Boot** e **Docker**.  
-Estudante de Sistemas de Informação na UNIBAVE (SC), com experiência prática no desenvolvimento de APIs REST, modelagem de banco de dados e containerização de aplicações.
+Experiência em desenvolvimento de software, atuando no ciclo completo de projetos, com foco em arquitetura, bancos de dados e construção de soluções eficientes.
 
-Fundei a **Turis**, uma startup voltada ao turismo regional, onde atuei como desenvolvedor e responsável pela arquitetura do sistema — do zero até a implementação das funcionalidades principais.
-
+Fundei a **Turis**, uma startup voltada ao turismo regional, onde atuei como desenvolvedor backend e participei ativamente do ciclo completo do produto — desde reuniões com potenciais clientes e refinamento da ideia, até a arquitetura e implementação das funcionalidades.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -37,6 +36,7 @@ Fundei a **Turis**, uma startup voltada ao turismo regional, onde atuei como des
 | [🏥 api-agendamento-consultas](https://github.com/Antonio-Marcos-Goulart/api-agendamento-consultas) | API REST completa para agendamento médico com envio de e-mail automático | Java 21, Spring Boot, Docker, PostgreSQL |
 | [✅ todo-list-api-spring-docker](https://github.com/Antonio-Marcos-Goulart/todo-list-api-spring-docker) | API de gerenciamento de tarefas com arquitetura em camadas e documentação Swagger | Java 21, Spring Boot, Docker, PostgreSQL |
 | [📋 api-rest-estilo-trello](https://github.com/Antonio-Marcos-Goulart/api-rest-estilo-trello) | API para gerenciamento de quadros e tarefas inspirada no Trello | Java, Spring Boot |
+| 🗺️ Turis *(2024–2025)* | App de turismo regional (SC) com listagem de destinos, hospedagens, eventos e restaurantes. Fundador e dev backend — responsável pela arquitetura, APIs e validação do produto com clientes reais. | Java, Spring Boot, Node.js |
 
 ---
 
