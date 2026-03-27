@@ -1,4 +1,4 @@
-# Olá, sou o Antônio Marcos 👋
+# Antônio Marcos 
 
 Desenvolvedor backend com foco em **Java**, **Spring Boot** e **Docker**.  
 Estudante de Sistemas de Informação na UNIBAVE (SC), com experiência prática no desenvolvimento de APIs REST, modelagem de banco de dados e containerização de aplicações.
