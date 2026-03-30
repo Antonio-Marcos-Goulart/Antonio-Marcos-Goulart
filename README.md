@@ -1,6 +1,7 @@
 # Antônio Marcos Goulart
 
 Desenvolvedor backend.
+
 Experiência em desenvolvimento de software, atuando no ciclo completo de projetos, com foco em arquitetura, bancos de dados e construção de soluções eficientes.
 
 Fundei a Turis, uma startup voltada ao turismo regional, durante o programa de **pré-incubação da Incubadora Inventa (Unibave)**, onde atuei como desenvolvedor backend e participei ativamente de todo o ciclo do produto, desde reuniões com potenciais clientes e refinamento da ideia, até a definição da arquitetura e implementação das funcionalidades.
