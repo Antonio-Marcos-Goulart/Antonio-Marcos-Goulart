@@ -32,18 +32,6 @@ Fundei a Turis, uma startup voltada ao turismo regional, durante o programa de *
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Lumina](https://github.com/LuminaUnibave/PEI) | Plataforma fullstack desenvolvida em equipe para a Rede Feminina de Combate ao Câncer de Mama de Orleans – SC. Projeto de extensão universitária ativo, com impacto social real. | Java, Spring Boot, JavaScript, CSS, Docker |
-| [api-agendamento-consultas](https://github.com/Antonio-Marcos-Goulart/api-agendamento-consultas) | API REST completa para agendamento médico com envio de e-mail automático | Java 21, Spring Boot, Docker, PostgreSQL |
-| [todo-list-api-spring-docker](https://github.com/Antonio-Marcos-Goulart/todo-list-api-spring-docker) | API de gerenciamento de tarefas com arquitetura em camadas e documentação Swagger | Java 21, Spring Boot, Docker, PostgreSQL |
-| [api-rest-estilo-trello](https://github.com/Antonio-Marcos-Goulart/api-rest-estilo-trello) | API para gerenciamento de quadros e tarefas inspirada no Trello | Java, Spring Boot |
-| Turis *(2024–2025)* | App de turismo regional (SC) com listagem de destinos, hospedagens, eventos e restaurantes. Fundador e dev backend — responsável pela arquitetura, APIs e validação do produto com clientes reais. | Java, Spring Boot, Node.js |
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniomgoulart)
