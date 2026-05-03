@@ -15,6 +15,9 @@ Fundei a Turis (2024 - 2025), uma startup voltada ao turismo regional, durante o
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C0?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ### **Banco de Dados**
 
