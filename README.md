@@ -18,6 +18,7 @@
 ## About Me
 
 - Backend developer with experience across the **full software project lifecycle**.
+- Undergraduate student in **Information Systems at Unibave**.
 - Focused on **architecture, databases**, and building efficient solutions.
 - I also work as a **freelancer for companies**, building websites, systems, and automations.
 - Founder of **Turis** (2024 – 2025), a technology startup focused on regional tourism.
